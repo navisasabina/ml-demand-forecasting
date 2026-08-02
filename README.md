@@ -69,6 +69,26 @@ ml-demand-forecasting/
 
 ---
 
+## 📊 Model Evaluation & Results
+
+### 1. Model Diagnostics & Performance
+
+| Learning Curve | Residual Plot |
+| :---: | :---: |
+| ![Learning Curve](images/Picture3.png) | ![Residual Plot](images/Picture4.png) |
+
+---
+
+### 2. Feature Importance (SHAP)
+
+![SHAP Summary Plot](images/Picture1_2.png)
+
+---
+
+### 3. Business Impact (Uplift Analysis)
+
+![Uplift Analysis](images/Picture2.png)
+
 ## 📄 Resources
 
 📑 Research Paper
