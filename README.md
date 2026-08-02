@@ -81,7 +81,7 @@ ml-demand-forecasting/
 
 ### 2. Feature Importance (SHAP)
 
-![SHAP Summary Plot](images/Picture1_2.png)
+![SHAP Summary Plot](images/Picture1.png)
 
 ---
 
