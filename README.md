@@ -91,14 +91,15 @@ ml-demand-forecasting/
 
 ## 📄 Resources
 
-📑 Research Paper
 
-*(Upload your PDF here and update the link later.)*
+📄 **[View Research Paper (PDF)](paper.pdf)**  
+*Click above to read the full research paper.*
 
-💻 Google Colab
+💻 **[Open Notebook in Google Colab](https://colab.research.google.com/github/navisasabina/ml-demand-forecasting/blob/main/machine_learning_navisa.ipynb)**  
+*Click above to open and run the notebook directly in Google Colab.*
 
-*(Add the Colab link here after making it public.)*
-
+📁 **[View Raw Notebook File](machine_learning_navisa.ipynb)**  
+*View the `.ipynb` code file directly in GitHub.*
 ---
 
 ## 🌱 Key Learning
